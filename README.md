@@ -5,6 +5,6 @@ This is a simple social media application where I implemented CRUD (Create, Read
 ## 🔗Usage API Links 
 
 
-[https://fakestoreapi.com/products](https://jsonplaceholder.typicode.com/posts)
+[https://jsonplaceholder.typicode.com/posts](https://jsonplaceholder.typicode.com/posts)
 
  
